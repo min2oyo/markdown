@@ -40,7 +40,7 @@ Other fruits:
 
 <!-- Check Box -->
 - [x] 하나
-- [] 둘
+- [ ] 둘
 
 <!-- Link -->
 
