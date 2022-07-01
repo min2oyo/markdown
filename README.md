@@ -39,6 +39,9 @@ Other fruits:
 2. 🍒
 
 <!-- Check Box -->
+
+Check Box:
+
 - [x] 하나
 - [ ] 둘
 
