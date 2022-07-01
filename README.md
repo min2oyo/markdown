@@ -38,6 +38,10 @@ Other fruits:
 1. 🍍
 2. 🍒
 
+<!-- Check Box -->
+- [x]하나
+- []둘
+
 <!-- Link -->
 
 Click [here](https://www.naver.com/)
